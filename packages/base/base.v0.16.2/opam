@@ -33,7 +33,7 @@ provided by companion libraries such as stdio:
 url {
   src: "https://github.com/janestreet/base/archive/refs/tags/v0.16.2.tar.gz"
   checksum: [
-    "md5=e0fbb6fd77d85b5de4766ce5d9593af2"
-    "sha512=d5f00c411dbdffe6cabc7ec309550c4f947e79c9ff6c95cbb2d148fd0bbff060db8019c9544c1db56172a6d143f810e700d7092d404ba6cbcd756cbaa896813f"
+    "md5=e328772905634e1438e83837e06ae674"
+    "sha512=cb4ce4506aba09f88fb828a34c2f7d4e18724b32d81f23d444c939846f91c6d9ff2d9f5da313fb933ac1b2f9fd4247f72139acbff640686912395fcd981da186"
   ]
 }
